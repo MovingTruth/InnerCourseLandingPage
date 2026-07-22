@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0D0D0D">
+  <meta name="description" content="Inner Course is a handcrafted lessons-and-reflection app by Moving Truth. Not a feed. Not gamified. A companion for the inward journey. Coming soon to iPhone.">
+  <meta property="og:title" content="Inner Course — by Moving Truth">
+  <meta property="og:description" content="Where Moving Truth moves outward, Inner Course moves in.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://inner-course.movingtruth.com/">
+  <meta property="og:image" content="https://inner-course.movingtruth.com/assets/icon.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>Inner Course — by Moving Truth</title>
+  <link rel="icon" type="image/png" href="assets/icon.png">
+  <link rel="apple-touch-icon" href="assets/icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="site.js" defer></script>
+</head>
+<body class="course">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <div class="living-canvas" aria-hidden="true">
+    <div class="living-canvas__gradient"></div>
+    <div class="living-canvas__glow"></div>
+    <div class="living-canvas__motes" id="motes"></div>
+    <svg class="living-canvas__corners" id="corner-spirals"></svg>
+  </div>
+
+  <header class="site-nav" role="banner">
+    <a class="site-nav__brand" href="#top" aria-label="Inner Course home">
+      <img src="assets/icon.png" alt="">
+      <span>Inner Course</span>
+    </a>
+    <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-links">
+      <span class="sr-only">Open navigation</span>
+      <span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+    </button>
+    <nav aria-label="Main navigation">
+      <ul class="site-nav__links" id="site-links">
+        <li><a href="#purpose">Why it exists</a></li>
+        <li><a href="#lessons">The lesson path</a></li>
+        <li><a href="#compass">The compass</a></li>
+        <li><a href="#availability">Availability</a></li>
+        <li><a href="https://apps.movingtruth.com">All apps</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="hero__icon-wrap">
+        <div class="hero__icon-glow"></div>
+        <img class="hero__icon" src="assets/icon.png" alt="Inner Course app icon: a worn leather book embossed with the Moving Truth symbol">
+      </div>
+      <h1 class="hero__name hero__name--product" id="hero-title">Inner Course</h1>
+      <p class="hero__promise">Where Moving Truth moves outward, Inner Course moves in.</p>
+      <div class="hero__actions">
+        <span class="button button--quiet" aria-label="Coming soon to iPhone">Coming soon to iPhone</span>
+        <a class="button button--outline" href="#purpose">Open the first page</a>
+      </div>
+      <p class="hero__scroll" aria-hidden="true">scroll to begin</p>
+    </section>
+
+    <div class="dot-row" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+    </div>
+
+    <section class="intro" id="purpose" aria-labelledby="purpose-title">
+      <h2 id="purpose-title">Not a feed. Not a quote collection. A companion.</h2>
+      <p>Inner Course exists to create moments where a person pauses long enough to think. Its lessons do not rush toward answers. They invite reflection, writing, silence, return—and the kind of understanding that can become compassionate action.</p>
+      <p class="intro__trust">Progress is measured by reflection, not completion.</p>
+    </section>
+
+    <section class="statement statement--bordered" id="lessons" aria-labelledby="lessons-title">
+      <span class="statement__symbol" aria-hidden="true">⌁</span>
+      <span class="eyebrow">Every lesson has a rhythm</span>
+      <h2 id="lessons-title">A structure that makes room for meaning.</h2>
+      <p>Each lesson follows the same deliberate path. It may end on a question. It may end in stillness. Nothing forces the reader onward before they are ready.</p>
+      <ol class="step-line" aria-label="Inner Course lesson structure">
+        <li>Invitation</li>
+        <li>Exploration</li>
+        <li>Reflection</li>
+        <li>Integration</li>
+        <li>Stillness</li>
+      </ol>
+    </section>
+
+    <section class="statement" id="compass" aria-labelledby="compass-title">
+      <span class="eyebrow">The design compass</span>
+      <h2 id="compass-title">Is this truer?</h2>
+      <p>Not: is it more exciting, more modern, or more impressive? Every uncertain decision in Inner Course returns to one question. Truth becomes the compass. Structure, not noise.</p>
+      <div class="capability-lines" role="list">
+        <div role="listitem"><strong>Reflection before reaction</strong><span>The work values what is noticed and written, not how quickly a lesson is consumed.</span></div>
+        <div role="listitem"><strong>Return, not finishing</strong><span>A quiet bookmark suggests that the path remains open whenever you are ready.</span></div>
+        <div role="listitem"><strong>Craftsmanship, not spectacle</strong><span>Purposeful motion, tactile warmth, and restraint rather than attention-seeking effects.</span></div>
+        <div role="listitem"><strong>Questions, not prescriptions</strong><span>Lessons help people ask better questions without pretending to hold every answer.</span></div>
+      </div>
+    </section>
+
+    <section class="statement statement--bordered" aria-labelledby="book-title">
+      <span class="statement__symbol" aria-hidden="true">▣</span>
+      <span class="eyebrow">The book</span>
+      <h2 id="book-title">Not new. Not neglected. Loved.</h2>
+      <p>The leather-bound book is more than an icon. It is the cover of the first book every person opens: softened at the corners, marked by return, and waiting without urgency. The first screen should feel like turning its first page.</p>
+      <p class="statement__note">The bookmark stays. Someone has already walked this path. You are welcome to continue.</p>
+    </section>
+
+    <section class="statement" aria-labelledby="language-title">
+      <span class="eyebrow">Eleven doors</span>
+      <h2 id="language-title">Every lesson multilingual by default.</h2>
+      <p>English, French, Spanish, German, Portuguese, Italian, Dutch, Hindi, Arabic, Chinese, and Japanese belong in the architecture from the first lesson—not as an afterthought after the English experience is finished.</p>
+      <ul class="truth-list">
+        <li>Translate the lesson, not merely its words.</li>
+        <li>Respect right-to-left reading and different ways language holds meaning.</li>
+        <li>Build an accessible common path without a separate, lesser experience.</li>
+        <li>Let quiet and dignity survive every translation.</li>
+      </ul>
+    </section>
+
+    <section class="blessing" aria-labelledby="blessing-title">
+      <h2 id="blessing-title">A blessing for Inner Course</h2>
+      <p>May every decision be made with care.<br>May every lesson invite honest reflection.<br>May every reflection become compassionate action.<br><br>Truth moves. Wisdom endures. Compassion multiplies.</p>
+    </section>
+
+    <section class="moving-truth" aria-label="About Moving Truth">
+      <a class="moving-truth__ring" href="https://movingtruth.com" aria-label="Moving Truth. Opens movingtruth.com">
+        <img src="assets/moving-truth-logo.png" alt="Moving Truth logo">
+      </a>
+      <strong>Inner Course</strong>
+      <span>by Moving Truth</span>
+      <small>Made with love by Skylaur Roe</small>
+      <a href="https://apps.movingtruth.com">Explore all Moving Truth apps</a>
+    </section>
+
+    <section class="closing" id="availability" aria-labelledby="availability-title">
+      <span class="eyebrow">Coming soon</span>
+      <h2 id="availability-title">The book stays closed until someone is ready to open it.</h2>
+      <p>Inner Course is being crafted for iPhone as a lifelong journey of learning, reflection, and becoming. Slowly. Patiently. Without rushing the reader.</p>
+      <a class="button button--outline" href="mailto:support@movingtruth.com?subject=Inner%20Course">Ask about Inner Course</a>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer__brand"><img src="assets/icon.png" alt=""><strong>Inner Course</strong></div>
+    <nav aria-label="Footer navigation">
+      <ul>
+        <li><a href="#purpose">Why it exists</a></li>
+        <li><a href="#lessons">Lesson path</a></li>
+        <li><a href="#compass">The compass</a></li>
+        <li><a href="mailto:support@movingtruth.com">Support</a></li>
+        <li><a href="https://apps.movingtruth.com">All apps</a></li>
+      </ul>
+    </nav>
+    <p>&copy; 2026 Inner Course by Moving Truth. Made for iPhone.</p>
+  </footer>
+</body>
+</html>
