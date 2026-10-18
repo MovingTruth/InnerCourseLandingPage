@@ -1,77 +1,317 @@
 {
-  "translations": {
-    "Inner Course is a handcrafted lessons-and-reflection app by Moving Truth. Not a feed. Not gamified. A companion for the inward journey. Coming soon to iPhone.": "Inner Course, Moving Truth का ध्यान से बनाया गया पाठ और चिंतन ऐप है। न फ़ीड। न खेल में बदला अनुभव। भीतर की यात्रा का साथी। जल्द iPhone पर।",
-    "Inner Course — by Moving Truth": "Inner Course — Moving Truth द्वारा",
-    "Skip to main content": "मुख्य सामग्री पर जाएँ",
-    "Inner Course home": "Inner Course का होम पेज",
-    "Open navigation": "नेविगेशन खोलें",
-    "Main navigation": "मुख्य नेविगेशन",
-    "Why it exists": "यह क्यों है",
-    "The lesson path": "पाठ का मार्ग",
-    "The compass": "दिशासूचक",
-    "Availability": "उपलब्धता",
-    "All apps": "सभी ऐप्स",
-    "Inner Course app icon: a worn leather book embossed with the Moving Truth symbol": "Inner Course ऐप आइकन: Moving Truth के चिह्न वाली पुरानी चमड़े की पुस्तक",
-    "Where Moving Truth moves outward, Inner Course moves in.": "जहाँ Moving Truth बाहर की ओर बढ़ता है, Inner Course भीतर की ओर जाता है।",
-    "Coming soon to iPhone": "जल्द iPhone पर",
-    "Open the first page": "पहला पन्ना खोलें",
-    "scroll to begin": "शुरू करने के लिए स्क्रॉल करें",
-    "Not a feed. Not a quote collection. A companion.": "न फ़ीड। न उद्धरण संग्रह। एक साथी।",
-    "Inner Course exists to create moments where a person pauses long enough to think. Its lessons do not rush toward answers. They invite reflection, writing, silence, return—and the kind of understanding that can become compassionate action.": "Inner Course ऐसे पल बनाने के लिए है जहाँ कोई व्यक्ति सोचने भर देर ठहर सके। इसके पाठ उत्तरों की ओर नहीं दौड़ते। वे चिंतन, लेखन, मौन और लौटने का निमंत्रण देते हैं — और ऐसी समझ का, जो करुणामय कर्म बन सके।",
-    "Progress is measured by reflection, not completion.": "प्रगति पूर्ण करने से नहीं, चिंतन से मापी जाती है।",
-    "Every lesson has a rhythm": "हर पाठ की अपनी लय है",
-    "A structure that makes room for meaning.": "एक संरचना जो अर्थ के लिए जगह बनाती है।",
-    "Each lesson follows the same deliberate path. It may end on a question. It may end in stillness. Nothing forces the reader onward before they are ready.": "हर पाठ उसी सोच-समझकर बनाए मार्ग पर चलता है। वह किसी प्रश्न पर समाप्त हो सकता है। मौन में समाप्त हो सकता है। पाठक तैयार होने से पहले आगे बढ़ने को मजबूर नहीं होता।",
-    "Inner Course lesson structure": "Inner Course पाठ की संरचना",
-    "Invitation": "आमंत्रण",
-    "Exploration": "खोज",
-    "Reflection": "चिंतन",
-    "Integration": "आत्मसात",
-    "Stillness": "स्थिरता",
-    "The design compass": "डिज़ाइन का दिशासूचक",
-    "Is this truer?": "क्या यह अधिक सच्चा है?",
-    "Not: is it more exciting, more modern, or more impressive? Every uncertain decision in Inner Course returns to one question. Truth becomes the compass. Structure, not noise.": "यह नहीं: क्या यह अधिक रोमांचक, आधुनिक या प्रभावशाली है? Inner Course का हर अनिश्चित निर्णय एक प्रश्न पर लौटता है। सत्य दिशासूचक बनता है। संरचना, शोर नहीं।",
-    "Reflection before reaction": "प्रतिक्रिया से पहले चिंतन",
-    "The work values what is noticed and written, not how quickly a lesson is consumed.": "यह कार्य इस बात को महत्व देता है कि क्या देखा और लिखा गया, न कि पाठ कितनी जल्दी पूरा किया गया।",
-    "Return, not finishing": "पूरा करना नहीं, लौटना",
-    "A quiet bookmark suggests that the path remains open whenever you are ready.": "एक शांत बुकमार्क याद दिलाता है कि जब भी आप तैयार हों, मार्ग खुला रहेगा।",
-    "Craftsmanship, not spectacle": "कारीगरी, दिखावा नहीं",
-    "Purposeful motion, tactile warmth, and restraint rather than attention-seeking effects.": "ध्यान खींचने वाले प्रभावों के बजाय उद्देश्यपूर्ण गति, स्पर्श की गर्माहट और संयम।",
-    "Questions, not prescriptions": "प्रश्न, निर्देश नहीं",
-    "Lessons help people ask better questions without pretending to hold every answer.": "पाठ लोगों को बेहतर प्रश्न पूछने में मदद करते हैं, हर उत्तर होने का दावा किए बिना।",
-    "The book": "पुस्तक",
-    "Not new. Not neglected. Loved.": "नई नहीं। उपेक्षित नहीं। प्रिय।",
-    "The leather-bound book is more than an icon. It is the cover of the first book every person opens: softened at the corners, marked by return, and waiting without urgency. The first screen should feel like turning its first page.": "चमड़े से बँधी पुस्तक सिर्फ़ आइकन नहीं है। यह हर व्यक्ति द्वारा खोली जाने वाली पहली पुस्तक का आवरण है: कोनों पर मुलायम, बार-बार लौटने के निशान लिए और बिना जल्दबाज़ी प्रतीक्षा करती हुई। पहली स्क्रीन उसका पहला पन्ना पलटने जैसी लगनी चाहिए।",
-    "The bookmark stays. Someone has already walked this path. You are welcome to continue.": "बुकमार्क वहीं रहता है। कोई पहले इस मार्ग पर चल चुका है। आप आगे बढ़ सकते हैं।",
-    "Fourteen doors": "चौदह दरवाज़े",
-    "Every lesson opens through fourteen doors.": "हर पाठ चौदह दरवाज़ों से खुलता है।",
-    "Inside the app, every lesson is being built in English, French, Spanish, German, Brazilian Portuguese, Italian, Dutch, Hindi, Arabic, Simplified Chinese, Japanese, Korean, Russian, and Thai from the beginning—not added after the English experience is finished.": "ऐप के भीतर हर पाठ शुरुआत से ही अंग्रेज़ी, फ़्रेंच, स्पैनिश, जर्मन, ब्राज़ीली पुर्तगाली, इतालवी, डच, हिन्दी, अरबी, सरलीकृत चीनी, जापानी, कोरियाई, रूसी और थाई में बनाया जा रहा है — अंग्रेज़ी अनुभव पूरा होने के बाद जोड़ा नहीं जा रहा।",
-    "Translate the lesson, not merely its words.": "पाठ का अनुवाद करें, केवल शब्दों का नहीं।",
-    "Respect right-to-left reading and different ways language holds meaning.": "दाएँ से बाएँ पढ़ने और अर्थ को सँभालने की भाषा की अलग-अलग विधियों का सम्मान करें।",
-    "Build an accessible common path without a separate, lesser experience.": "अलग और कमतर अनुभव के बिना एक साझा सुगम मार्ग बनाएँ।",
-    "Let quiet and dignity survive every translation.": "हर अनुवाद में शांति और गरिमा जीवित रहें।",
-    "A blessing for Inner Course": "Inner Course के लिए एक आशीष",
-    "May every decision be made with care.": "हर निर्णय सावधानी से लिया जाए।",
-    "May every lesson invite honest reflection.": "हर पाठ ईमानदार चिंतन का आमंत्रण दे।",
-    "May every reflection become compassionate action.": "हर चिंतन करुणामय कर्म बने।",
-    "Truth moves. Wisdom endures. Compassion multiplies.": "सत्य चलाता है। बुद्धि टिकती है। करुणा बढ़ती है।",
-    "About Moving Truth": "Moving Truth के बारे में",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth। movingtruth.com खोलता है",
-    "Moving Truth logo": "Moving Truth का लोगो",
-    "by Moving Truth": "Moving Truth द्वारा",
-    "Made with love by Skylaur Roe": "Skylaur Roe द्वारा प्यार से बनाया गया",
-    "Explore all Moving Truth apps": "सभी Moving Truth ऐप्स देखें",
-    "Coming soon": "जल्द आ रहा है",
-    "The book stays closed until someone is ready to open it.": "पुस्तक तब तक बंद रहती है, जब तक कोई उसे खोलने के लिए तैयार न हो।",
-    "Inner Course is being crafted for iPhone as a lifelong journey of learning, reflection, and becoming. Slowly. Patiently. Without rushing the reader.": "Inner Course को iPhone के लिए सीखने, चिंतन और बनने की जीवनभर की यात्रा के रूप में बनाया जा रहा है। धीरे। धैर्य से। पाठक को जल्दबाज़ी कराए बिना।",
-    "Ask about Inner Course": "Inner Course के बारे में पूछें",
-    "Footer navigation": "फ़ुटर नेविगेशन",
-    "Lesson path": "पाठ मार्ग",
-    "Support": "सहायता",
-    "© 2026 Inner Course by Moving Truth. Made for iPhone.": "© 2026 Inner Course, Moving Truth द्वारा। iPhone के लिए बनाया गया।"
-  },
-  "scriptTranslations": {
-    "Close navigation": "नेविगेशन बंद करें",
-    "Open navigation": "नेविगेशन खोलें"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-course.index.text.0001": {
+      "value": "Inner Course — Moving Truth द्वारा",
+      "sourceSha256": "aaffae20edcb64575f264ef98942949f623fb6f935174453f11c08285cd94d4d"
+    },
+    "inner-course.index.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-course.index.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-course.index.text.0004": {
+      "value": "यह क्यों है",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    "inner-course.index.text.0005": {
+      "value": "पाठ का मार्ग",
+      "sourceSha256": "da6d93bc13f9fda60d825bb4558494f64077f4253a5cc3338778fb02e71775b4"
+    },
+    "inner-course.index.text.0006": {
+      "value": "दिशासूचक",
+      "sourceSha256": "2eebb7accc2fc83e8e79cf9ba16a3d9d9bbca85fc85e49a07546cb5a7c7b9b08"
+    },
+    "inner-course.index.text.0007": {
+      "value": "उपलब्धता",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-course.index.text.0008": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-course.index.text.0009": {
+      "value": "जहाँ Moving Truth बाहर की ओर बढ़ता है, Inner Course भीतर की ओर जाता है।",
+      "sourceSha256": "906b8ec1efda5796a7a50b1e81913790a0c09607855b2e15acc5f333af935f58"
+    },
+    "inner-course.index.text.0010": {
+      "value": "जल्द iPhone पर",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    "inner-course.index.text.0011": {
+      "value": "पहला पन्ना खोलें",
+      "sourceSha256": "2657fa7e7b3972034ebdd128913634d6c5b7ab03b824489454cacd94147d63f7"
+    },
+    "inner-course.index.text.0012": {
+      "value": "शुरू करने के लिए स्क्रॉल करें",
+      "sourceSha256": "39ba6e3aa27d93b7ae50335ef0e18702befc3f75bb31b846e339ed8aa353cdb7"
+    },
+    "inner-course.index.text.0013": {
+      "value": "न फ़ीड। न उद्धरण संग्रह। एक साथी।",
+      "sourceSha256": "e00398f164e6ae84897ee9cf07c9d917f4e2c4cef0d0eb57482635b1b0664354"
+    },
+    "inner-course.index.text.0014": {
+      "value": "Inner Course ऐसे पल बनाने के लिए है जहाँ कोई व्यक्ति सोचने भर देर ठहर सके। इसके पाठ उत्तरों की ओर नहीं दौड़ते। वे चिंतन, लेखन, मौन और लौटने का निमंत्रण देते हैं — और ऐसी समझ का, जो करुणामय कर्म बन सके।",
+      "sourceSha256": "97e9fb6df29f38efc30ee799374d98c0d482e114844aad349f39022ec80e8aaf"
+    },
+    "inner-course.index.text.0015": {
+      "value": "प्रगति पूर्ण करने से नहीं, चिंतन से मापी जाती है।",
+      "sourceSha256": "81404ef338ce8d531f823498fd838b5e8eadb70868f6d9b37ae57ec8d0916c03"
+    },
+    "inner-course.index.text.0016": {
+      "value": "हर पाठ की अपनी लय है",
+      "sourceSha256": "7b63029792374df8603ed18bf3c43cad02fb53ce09f406d92a5472ef158362ed"
+    },
+    "inner-course.index.text.0017": {
+      "value": "एक संरचना जो अर्थ के लिए जगह बनाती है।",
+      "sourceSha256": "922612bd2f7439245e5b575cc0d73020768a98e8895a385a7bd75423e0c47e94"
+    },
+    "inner-course.index.text.0018": {
+      "value": "हर पाठ उसी सोच-समझकर बनाए मार्ग पर चलता है। वह किसी प्रश्न पर समाप्त हो सकता है। मौन में समाप्त हो सकता है। पाठक तैयार होने से पहले आगे बढ़ने को मजबूर नहीं होता।",
+      "sourceSha256": "cbddeafd4804e7673e302f9238ecc25fad5ad09d0718ec6d3f1b41936bdccd4a"
+    },
+    "inner-course.index.text.0019": {
+      "value": "आमंत्रण",
+      "sourceSha256": "af4ea02852eb08ea7b96b093b59e744da12779a5997fd70804d7068c90a7cda0"
+    },
+    "inner-course.index.text.0020": {
+      "value": "खोज",
+      "sourceSha256": "f08e7f4a8d5c7b2a62ede2d1643527c2e823bd454f9e8c632d4f55db0f3a3cc0"
+    },
+    "inner-course.index.text.0021": {
+      "value": "चिंतन",
+      "sourceSha256": "7538c2135b030e4e91c01e4952055324c62e0182b94d2d0bf0c272f7f55e2373"
+    },
+    "inner-course.index.text.0022": {
+      "value": "आत्मसात",
+      "sourceSha256": "9a42d40a3f319da59ce05d08f77f348f7a4ae965ff3e8251334adf67432b011d"
+    },
+    "inner-course.index.text.0023": {
+      "value": "स्थिरता",
+      "sourceSha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96"
+    },
+    "inner-course.index.text.0024": {
+      "value": "डिज़ाइन का दिशासूचक",
+      "sourceSha256": "3cbadd7d145b87324190ca2c697bb418f189a5cb8b3062821be3327e29fb4fd6"
+    },
+    "inner-course.index.text.0025": {
+      "value": "क्या यह अधिक सच्चा है?",
+      "sourceSha256": "88d8f817f9d76f60275344c3b090602fd3508860cc4b6203371cb45862062758"
+    },
+    "inner-course.index.text.0026": {
+      "value": "यह नहीं: क्या यह अधिक रोमांचक, आधुनिक या प्रभावशाली है? Inner Course का हर अनिश्चित निर्णय एक प्रश्न पर लौटता है। सत्य दिशासूचक बनता है। संरचना, शोर नहीं।",
+      "sourceSha256": "08ad96523724cad14ce1d684e76962eaa8b44b8a56f7b5a36a48a79ca87c5235"
+    },
+    "inner-course.index.text.0027": {
+      "value": "प्रतिक्रिया से पहले चिंतन",
+      "sourceSha256": "8d3c536f6964778ca173faf8e8533510e5c666ab76ea29f8e31da1000cf57cd4"
+    },
+    "inner-course.index.text.0028": {
+      "value": "यह कार्य इस बात को महत्व देता है कि क्या देखा और लिखा गया, न कि पाठ कितनी जल्दी पूरा किया गया।",
+      "sourceSha256": "b964d96c4835f167bfd09633fe174e45f98bc3c369521cf5f99fa431ac51ad5b"
+    },
+    "inner-course.index.text.0029": {
+      "value": "पूरा करना नहीं, लौटना",
+      "sourceSha256": "4d7cd37661f1edb376d0a093f93d53c0cc6b064fc1a158306c66ce41303832c1"
+    },
+    "inner-course.index.text.0030": {
+      "value": "एक शांत बुकमार्क याद दिलाता है कि जब भी आप तैयार हों, मार्ग खुला रहेगा।",
+      "sourceSha256": "6d14906e9afb1e1c343cd07211a108d7cb91203033f3adfabc3447a164247355"
+    },
+    "inner-course.index.text.0031": {
+      "value": "कारीगरी, दिखावा नहीं",
+      "sourceSha256": "85be589e13c4a025e60d4598288fd1fb97555b22e881cbbaf65720c153a5aff6"
+    },
+    "inner-course.index.text.0032": {
+      "value": "ध्यान खींचने वाले प्रभावों के बजाय उद्देश्यपूर्ण गति, स्पर्श की गर्माहट और संयम।",
+      "sourceSha256": "f3df51cd6dbe87861dc1c2e19c19102dff3b0f346ae5af505edaa674603fb800"
+    },
+    "inner-course.index.text.0033": {
+      "value": "प्रश्न, निर्देश नहीं",
+      "sourceSha256": "51579c0eb281f418dc860954137fcb81cc0260028393bbd8331a07a5400fbee1"
+    },
+    "inner-course.index.text.0034": {
+      "value": "पाठ लोगों को बेहतर प्रश्न पूछने में मदद करते हैं, हर उत्तर होने का दावा किए बिना।",
+      "sourceSha256": "b6799d4b294b0dbaed09ff60a9e778a5773f23be85a4c9b969783e34a41ed35a"
+    },
+    "inner-course.index.text.0035": {
+      "value": "पुस्तक",
+      "sourceSha256": "77219ddbe6dad86e320e27258caababa717cf63581374235444b5b8f4621c09e"
+    },
+    "inner-course.index.text.0036": {
+      "value": "नई नहीं। उपेक्षित नहीं। प्रिय।",
+      "sourceSha256": "c22ab2af1080adab2493fa5ddde5dcd034af2fd747afbb7a5f43639608e144ca"
+    },
+    "inner-course.index.text.0037": {
+      "value": "चमड़े से बँधी पुस्तक सिर्फ़ आइकन नहीं है। यह हर व्यक्ति द्वारा खोली जाने वाली पहली पुस्तक का आवरण है: कोनों पर मुलायम, बार-बार लौटने के निशान लिए और बिना जल्दबाज़ी प्रतीक्षा करती हुई। पहली स्क्रीन उसका पहला पन्ना पलटने जैसी लगनी चाहिए।",
+      "sourceSha256": "9707e04ae184ae9e8874aec41a9e8010bc43174df07acf3f3f688414547ad61b"
+    },
+    "inner-course.index.text.0038": {
+      "value": "बुकमार्क वहीं रहता है। कोई पहले इस मार्ग पर चल चुका है। आप आगे बढ़ सकते हैं।",
+      "sourceSha256": "2f03a50e83d7817289c2a1b215594b5f74464fa36592ec62733432f0ec99a299"
+    },
+    "inner-course.index.text.0039": {
+      "value": "चौदह दरवाज़े",
+      "sourceSha256": "df8c86d5da501d8b8e804d39c84bd987989f40c2f4e180db58f9717f4b42dcc8"
+    },
+    "inner-course.index.text.0040": {
+      "value": "हर पाठ चौदह दरवाज़ों से खुलता है।",
+      "sourceSha256": "9877cd475d00fda1948d8177e68fb398b6104064def80646e7088c0f6413dccc"
+    },
+    "inner-course.index.text.0041": {
+      "value": "ऐप के भीतर हर पाठ शुरुआत से ही अंग्रेज़ी, फ़्रेंच, स्पैनिश, जर्मन, ब्राज़ीली पुर्तगाली, इतालवी, डच, हिन्दी, अरबी, सरलीकृत चीनी, जापानी, कोरियाई, रूसी और थाई में बनाया जा रहा है — अंग्रेज़ी अनुभव पूरा होने के बाद जोड़ा नहीं जा रहा।",
+      "sourceSha256": "0762d82cdb97ae7c7b445ac3ac421b50e73c215537ed115a73d32301ddf2adad"
+    },
+    "inner-course.index.text.0042": {
+      "value": "पाठ का अनुवाद करें, केवल शब्दों का नहीं।",
+      "sourceSha256": "04d826b3ae6dd78844f884096498450dbfa2508602189fed97adb0c816858723"
+    },
+    "inner-course.index.text.0043": {
+      "value": "दाएँ से बाएँ पढ़ने और अर्थ को सँभालने की भाषा की अलग-अलग विधियों का सम्मान करें।",
+      "sourceSha256": "0f72c8902c2a9e3fa79f3f6e8ef3ae7247d9896ee49f01ea7412ffe93885ba9c"
+    },
+    "inner-course.index.text.0044": {
+      "value": "अलग और कमतर अनुभव के बिना एक साझा सुगम मार्ग बनाएँ।",
+      "sourceSha256": "c25750ff2d336d690b5ad83e745de1fcff025add4a44b9cdf05be06e1066e4b3"
+    },
+    "inner-course.index.text.0045": {
+      "value": "हर अनुवाद में शांति और गरिमा जीवित रहें।",
+      "sourceSha256": "40d9063fee6494c3238390838ab8436810c235b693c78d4f91a78edc9f914da0"
+    },
+    "inner-course.index.text.0046": {
+      "value": "Inner Course के लिए एक आशीष",
+      "sourceSha256": "439b2626cb6b6cd67a6597c4b2f69716231bb142845d07518a2f40fc71433a31"
+    },
+    "inner-course.index.text.0047": {
+      "value": "हर निर्णय सावधानी से लिया जाए।",
+      "sourceSha256": "8340a9cd794d87491dc97d185a766c6a09f7581426ea00e39ce4a47d3d3c68cc"
+    },
+    "inner-course.index.text.0048": {
+      "value": "हर पाठ ईमानदार चिंतन का आमंत्रण दे।",
+      "sourceSha256": "a8497526f29a7b7b5c1ef5f57a6f9ce64df4cfb4ddc2f92a63be4a0c05869b50"
+    },
+    "inner-course.index.text.0049": {
+      "value": "हर चिंतन करुणामय कर्म बने।",
+      "sourceSha256": "eb63a4324041b5586afccec3f5250b5863c5b634f0c49d11217a0992d9682069"
+    },
+    "inner-course.index.text.0050": {
+      "value": "सत्य चलाता है। बुद्धि टिकती है। करुणा बढ़ती है।",
+      "sourceSha256": "bc192b5dadd246485a9b48a89161da5d8297a3a6f4fb5dd68f732b35009e6443"
+    },
+    "inner-course.index.text.0051": {
+      "value": "Moving Truth द्वारा",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-course.index.text.0052": {
+      "value": "Skylaur Roe द्वारा प्यार से बनाया गया",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-course.index.text.0053": {
+      "value": "सभी Moving Truth ऐप्स देखें",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-course.index.text.0054": {
+      "value": "जल्द आ रहा है",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    "inner-course.index.text.0055": {
+      "value": "पुस्तक तब तक बंद रहती है, जब तक कोई उसे खोलने के लिए तैयार न हो।",
+      "sourceSha256": "e2d9535ae7e797ccc9790cf880d5222ac717c920f364f6ad1879bf28695345af"
+    },
+    "inner-course.index.text.0056": {
+      "value": "Inner Course को iPhone के लिए सीखने, चिंतन और बनने की जीवनभर की यात्रा के रूप में बनाया जा रहा है। धीरे। धैर्य से। पाठक को जल्दबाज़ी कराए बिना।",
+      "sourceSha256": "f33bfa28bc4374f7407803b0258a086e14795a9212e6b8f5666f3cda7a99e3db"
+    },
+    "inner-course.index.text.0057": {
+      "value": "Inner Course के बारे में पूछें",
+      "sourceSha256": "678837dade22071aa47e0416f8c1a4be55c2ca41ac711928d5de914feadd8b92"
+    },
+    "inner-course.index.text.0058": {
+      "value": "यह क्यों है",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    "inner-course.index.text.0059": {
+      "value": "पाठ मार्ग",
+      "sourceSha256": "e7c24fff5ec6b890aadb1829e76de655c6562e167dc962aacd0fa26f14835207"
+    },
+    "inner-course.index.text.0060": {
+      "value": "दिशासूचक",
+      "sourceSha256": "2eebb7accc2fc83e8e79cf9ba16a3d9d9bbca85fc85e49a07546cb5a7c7b9b08"
+    },
+    "inner-course.index.text.0061": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-course.index.text.0062": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-course.index.text.0063": {
+      "value": "© 2026 Inner Course, Moving Truth द्वारा। iPhone के लिए बनाया गया।",
+      "sourceSha256": "f83db333672ea0bb36be0daec00c5309e3c5fddcfc77d22518260ad4f5136d40"
+    },
+    "inner-course.index.attribute.0001": {
+      "value": "Inner Course, Moving Truth का ध्यान से बनाया गया पाठ और चिंतन ऐप है। न फ़ीड। न खेल में बदला अनुभव। भीतर की यात्रा का साथी। जल्द iPhone पर।",
+      "sourceSha256": "34686f0f18711a087477c5c890d2b00d0bb82708ac1c4871483842a3214d503e"
+    },
+    "inner-course.index.attribute.0002": {
+      "value": "Inner Course — Moving Truth द्वारा",
+      "sourceSha256": "aaffae20edcb64575f264ef98942949f623fb6f935174453f11c08285cd94d4d"
+    },
+    "inner-course.index.attribute.0003": {
+      "value": "जहाँ Moving Truth बाहर की ओर बढ़ता है, Inner Course भीतर की ओर जाता है।",
+      "sourceSha256": "906b8ec1efda5796a7a50b1e81913790a0c09607855b2e15acc5f333af935f58"
+    },
+    "inner-course.index.attribute.0004": {
+      "value": "Inner Course का होम पेज",
+      "sourceSha256": "00a9b9621320a5a72ebed078232513ce8ed303e6c239cd1245953e354c5245ce"
+    },
+    "inner-course.index.attribute.0005": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-course.index.attribute.0006": {
+      "value": "Inner Course ऐप आइकन: Moving Truth के चिह्न वाली पुरानी चमड़े की पुस्तक",
+      "sourceSha256": "36221842e99084f5f51081e49272c1c5c9b72bd5de7cf2ec425c72d8365f51fb"
+    },
+    "inner-course.index.attribute.0007": {
+      "value": "जल्द iPhone पर",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    "inner-course.index.attribute.0008": {
+      "value": "Inner Course पाठ की संरचना",
+      "sourceSha256": "84b40fd87c519c4b867182837f9f5f1384366a95cc76abda5b2a3d36c2595e19"
+    },
+    "inner-course.index.attribute.0009": {
+      "value": "Moving Truth के बारे में",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-course.index.attribute.0010": {
+      "value": "Moving Truth। movingtruth.com खोलता है",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-course.index.attribute.0011": {
+      "value": "Moving Truth का लोगो",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-course.index.attribute.0012": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-course.index.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-course.site-js.script.0001": {
+      "value": "नेविगेशन बंद करें",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-course.site-js.script.0002": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }

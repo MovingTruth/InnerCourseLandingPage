@@ -1,0 +1,631 @@
+{
+  "schema": "release-fabric/messages@1",
+  "site": "inner-course",
+  "messages": [
+    {
+      "id": "inner-course.index.text.0001",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/head[1]/title[1]/text()[1]",
+      "source": "Inner Course — by Moving Truth",
+      "sourceSha256": "aaffae20edcb64575f264ef98942949f623fb6f935174453f11c08285cd94d4d"
+    },
+    {
+      "id": "inner-course.index.text.0002",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/a[1]/text()[1]",
+      "source": "Skip to main content",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    {
+      "id": "inner-course.index.text.0003",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/header[1]/button[1]/span[1]/text()[1]",
+      "source": "Open navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    {
+      "id": "inner-course.index.text.0004",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#site-links/li[1]/a[1]/text()[1]",
+      "source": "Why it exists",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    {
+      "id": "inner-course.index.text.0005",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#site-links/li[2]/a[1]/text()[1]",
+      "source": "The lesson path",
+      "sourceSha256": "da6d93bc13f9fda60d825bb4558494f64077f4253a5cc3338778fb02e71775b4"
+    },
+    {
+      "id": "inner-course.index.text.0006",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#site-links/li[3]/a[1]/text()[1]",
+      "source": "The compass",
+      "sourceSha256": "2eebb7accc2fc83e8e79cf9ba16a3d9d9bbca85fc85e49a07546cb5a7c7b9b08"
+    },
+    {
+      "id": "inner-course.index.text.0007",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#site-links/li[4]/a[1]/text()[1]",
+      "source": "Availability",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    {
+      "id": "inner-course.index.text.0008",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#site-links/li[5]/a[1]/text()[1]",
+      "source": "All apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    {
+      "id": "inner-course.index.text.0009",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#top/p[1]/text()[1]",
+      "source": "Where Moving Truth moves outward, Inner Course moves in.",
+      "sourceSha256": "906b8ec1efda5796a7a50b1e81913790a0c09607855b2e15acc5f333af935f58"
+    },
+    {
+      "id": "inner-course.index.text.0010",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#top/div[2]/span[1]/text()[1]",
+      "source": "Coming soon to iPhone",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    {
+      "id": "inner-course.index.text.0011",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#top/div[2]/a[1]/text()[1]",
+      "source": "Open the first page",
+      "sourceSha256": "2657fa7e7b3972034ebdd128913634d6c5b7ab03b824489454cacd94147d63f7"
+    },
+    {
+      "id": "inner-course.index.text.0012",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#top/p[2]/text()[1]",
+      "source": "scroll to begin",
+      "sourceSha256": "39ba6e3aa27d93b7ae50335ef0e18702befc3f75bb31b846e339ed8aa353cdb7"
+    },
+    {
+      "id": "inner-course.index.text.0013",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#purpose-title/text()[1]",
+      "source": "Not a feed. Not a quote collection. A companion.",
+      "sourceSha256": "e00398f164e6ae84897ee9cf07c9d917f4e2c4cef0d0eb57482635b1b0664354"
+    },
+    {
+      "id": "inner-course.index.text.0014",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#purpose/p[1]/text()[1]",
+      "source": "Inner Course exists to create moments where a person pauses long enough to think. Its lessons do not rush toward answers. They invite reflection, writing, silence, return—and the kind of understanding that can become compassionate action.",
+      "sourceSha256": "97e9fb6df29f38efc30ee799374d98c0d482e114844aad349f39022ec80e8aaf"
+    },
+    {
+      "id": "inner-course.index.text.0015",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#purpose/p[2]/text()[1]",
+      "source": "Progress is measured by reflection, not completion.",
+      "sourceSha256": "81404ef338ce8d531f823498fd838b5e8eadb70868f6d9b37ae57ec8d0916c03"
+    },
+    {
+      "id": "inner-course.index.text.0016",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/span[2]/text()[1]",
+      "source": "Every lesson has a rhythm",
+      "sourceSha256": "7b63029792374df8603ed18bf3c43cad02fb53ce09f406d92a5472ef158362ed"
+    },
+    {
+      "id": "inner-course.index.text.0017",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons-title/text()[1]",
+      "source": "A structure that makes room for meaning.",
+      "sourceSha256": "922612bd2f7439245e5b575cc0d73020768a98e8895a385a7bd75423e0c47e94"
+    },
+    {
+      "id": "inner-course.index.text.0018",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/p[1]/text()[1]",
+      "source": "Each lesson follows the same deliberate path. It may end on a question. It may end in stillness. Nothing forces the reader onward before they are ready.",
+      "sourceSha256": "cbddeafd4804e7673e302f9238ecc25fad5ad09d0718ec6d3f1b41936bdccd4a"
+    },
+    {
+      "id": "inner-course.index.text.0019",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/ol[1]/li[1]/text()[1]",
+      "source": "Invitation",
+      "sourceSha256": "af4ea02852eb08ea7b96b093b59e744da12779a5997fd70804d7068c90a7cda0"
+    },
+    {
+      "id": "inner-course.index.text.0020",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/ol[1]/li[2]/text()[1]",
+      "source": "Exploration",
+      "sourceSha256": "f08e7f4a8d5c7b2a62ede2d1643527c2e823bd454f9e8c632d4f55db0f3a3cc0"
+    },
+    {
+      "id": "inner-course.index.text.0021",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/ol[1]/li[3]/text()[1]",
+      "source": "Reflection",
+      "sourceSha256": "7538c2135b030e4e91c01e4952055324c62e0182b94d2d0bf0c272f7f55e2373"
+    },
+    {
+      "id": "inner-course.index.text.0022",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/ol[1]/li[4]/text()[1]",
+      "source": "Integration",
+      "sourceSha256": "9a42d40a3f319da59ce05d08f77f348f7a4ae965ff3e8251334adf67432b011d"
+    },
+    {
+      "id": "inner-course.index.text.0023",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#lessons/ol[1]/li[5]/text()[1]",
+      "source": "Stillness",
+      "sourceSha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96"
+    },
+    {
+      "id": "inner-course.index.text.0024",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/span[1]/text()[1]",
+      "source": "The design compass",
+      "sourceSha256": "3cbadd7d145b87324190ca2c697bb418f189a5cb8b3062821be3327e29fb4fd6"
+    },
+    {
+      "id": "inner-course.index.text.0025",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass-title/text()[1]",
+      "source": "Is this truer?",
+      "sourceSha256": "88d8f817f9d76f60275344c3b090602fd3508860cc4b6203371cb45862062758"
+    },
+    {
+      "id": "inner-course.index.text.0026",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/p[1]/text()[1]",
+      "source": "Not: is it more exciting, more modern, or more impressive? Every uncertain decision in Inner Course returns to one question. Truth becomes the compass. Structure, not noise.",
+      "sourceSha256": "08ad96523724cad14ce1d684e76962eaa8b44b8a56f7b5a36a48a79ca87c5235"
+    },
+    {
+      "id": "inner-course.index.text.0027",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[1]/strong[1]/text()[1]",
+      "source": "Reflection before reaction",
+      "sourceSha256": "8d3c536f6964778ca173faf8e8533510e5c666ab76ea29f8e31da1000cf57cd4"
+    },
+    {
+      "id": "inner-course.index.text.0028",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[1]/span[1]/text()[1]",
+      "source": "The work values what is noticed and written, not how quickly a lesson is consumed.",
+      "sourceSha256": "b964d96c4835f167bfd09633fe174e45f98bc3c369521cf5f99fa431ac51ad5b"
+    },
+    {
+      "id": "inner-course.index.text.0029",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[2]/strong[1]/text()[1]",
+      "source": "Return, not finishing",
+      "sourceSha256": "4d7cd37661f1edb376d0a093f93d53c0cc6b064fc1a158306c66ce41303832c1"
+    },
+    {
+      "id": "inner-course.index.text.0030",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[2]/span[1]/text()[1]",
+      "source": "A quiet bookmark suggests that the path remains open whenever you are ready.",
+      "sourceSha256": "6d14906e9afb1e1c343cd07211a108d7cb91203033f3adfabc3447a164247355"
+    },
+    {
+      "id": "inner-course.index.text.0031",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[3]/strong[1]/text()[1]",
+      "source": "Craftsmanship, not spectacle",
+      "sourceSha256": "85be589e13c4a025e60d4598288fd1fb97555b22e881cbbaf65720c153a5aff6"
+    },
+    {
+      "id": "inner-course.index.text.0032",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[3]/span[1]/text()[1]",
+      "source": "Purposeful motion, tactile warmth, and restraint rather than attention-seeking effects.",
+      "sourceSha256": "f3df51cd6dbe87861dc1c2e19c19102dff3b0f346ae5af505edaa674603fb800"
+    },
+    {
+      "id": "inner-course.index.text.0033",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[4]/strong[1]/text()[1]",
+      "source": "Questions, not prescriptions",
+      "sourceSha256": "51579c0eb281f418dc860954137fcb81cc0260028393bbd8331a07a5400fbee1"
+    },
+    {
+      "id": "inner-course.index.text.0034",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#compass/div[1]/div[4]/span[1]/text()[1]",
+      "source": "Lessons help people ask better questions without pretending to hold every answer.",
+      "sourceSha256": "b6799d4b294b0dbaed09ff60a9e778a5773f23be85a4c9b969783e34a41ed35a"
+    },
+    {
+      "id": "inner-course.index.text.0035",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[5]/span[2]/text()[1]",
+      "source": "The book",
+      "sourceSha256": "77219ddbe6dad86e320e27258caababa717cf63581374235444b5b8f4621c09e"
+    },
+    {
+      "id": "inner-course.index.text.0036",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#book-title/text()[1]",
+      "source": "Not new. Not neglected. Loved.",
+      "sourceSha256": "c22ab2af1080adab2493fa5ddde5dcd034af2fd747afbb7a5f43639608e144ca"
+    },
+    {
+      "id": "inner-course.index.text.0037",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[5]/p[1]/text()[1]",
+      "source": "The leather-bound book is more than an icon. It is the cover of the first book every person opens: softened at the corners, marked by return, and waiting without urgency. The first screen should feel like turning its first page.",
+      "sourceSha256": "9707e04ae184ae9e8874aec41a9e8010bc43174df07acf3f3f688414547ad61b"
+    },
+    {
+      "id": "inner-course.index.text.0038",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[5]/p[2]/text()[1]",
+      "source": "The bookmark stays. Someone has already walked this path. You are welcome to continue.",
+      "sourceSha256": "2f03a50e83d7817289c2a1b215594b5f74464fa36592ec62733432f0ec99a299"
+    },
+    {
+      "id": "inner-course.index.text.0039",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/span[1]/text()[1]",
+      "source": "Fourteen doors",
+      "sourceSha256": "df8c86d5da501d8b8e804d39c84bd987989f40c2f4e180db58f9717f4b42dcc8"
+    },
+    {
+      "id": "inner-course.index.text.0040",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#language-title/text()[1]",
+      "source": "Every lesson opens through fourteen doors.",
+      "sourceSha256": "9877cd475d00fda1948d8177e68fb398b6104064def80646e7088c0f6413dccc"
+    },
+    {
+      "id": "inner-course.index.text.0041",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/p[1]/text()[1]",
+      "source": "Inside the app, every lesson is being built in English, French, Spanish, German, Brazilian Portuguese, Italian, Dutch, Hindi, Arabic, Simplified Chinese, Japanese, Korean, Russian, and Thai from the beginning—not added after the English experience is finished.",
+      "sourceSha256": "0762d82cdb97ae7c7b445ac3ac421b50e73c215537ed115a73d32301ddf2adad"
+    },
+    {
+      "id": "inner-course.index.text.0042",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/ul[1]/li[1]/text()[1]",
+      "source": "Translate the lesson, not merely its words.",
+      "sourceSha256": "04d826b3ae6dd78844f884096498450dbfa2508602189fed97adb0c816858723"
+    },
+    {
+      "id": "inner-course.index.text.0043",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/ul[1]/li[2]/text()[1]",
+      "source": "Respect right-to-left reading and different ways language holds meaning.",
+      "sourceSha256": "0f72c8902c2a9e3fa79f3f6e8ef3ae7247d9896ee49f01ea7412ffe93885ba9c"
+    },
+    {
+      "id": "inner-course.index.text.0044",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/ul[1]/li[3]/text()[1]",
+      "source": "Build an accessible common path without a separate, lesser experience.",
+      "sourceSha256": "c25750ff2d336d690b5ad83e745de1fcff025add4a44b9cdf05be06e1066e4b3"
+    },
+    {
+      "id": "inner-course.index.text.0045",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[6]/ul[1]/li[4]/text()[1]",
+      "source": "Let quiet and dignity survive every translation.",
+      "sourceSha256": "40d9063fee6494c3238390838ab8436810c235b693c78d4f91a78edc9f914da0"
+    },
+    {
+      "id": "inner-course.index.text.0046",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#blessing-title/text()[1]",
+      "source": "A blessing for Inner Course",
+      "sourceSha256": "439b2626cb6b6cd67a6597c4b2f69716231bb142845d07518a2f40fc71433a31"
+    },
+    {
+      "id": "inner-course.index.text.0047",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[7]/p[1]/text()[1]",
+      "source": "May every decision be made with care.",
+      "sourceSha256": "8340a9cd794d87491dc97d185a766c6a09f7581426ea00e39ce4a47d3d3c68cc"
+    },
+    {
+      "id": "inner-course.index.text.0048",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[7]/p[1]/text()[2]",
+      "source": "May every lesson invite honest reflection.",
+      "sourceSha256": "a8497526f29a7b7b5c1ef5f57a6f9ce64df4cfb4ddc2f92a63be4a0c05869b50"
+    },
+    {
+      "id": "inner-course.index.text.0049",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[7]/p[1]/text()[3]",
+      "source": "May every reflection become compassionate action.",
+      "sourceSha256": "eb63a4324041b5586afccec3f5250b5863c5b634f0c49d11217a0992d9682069"
+    },
+    {
+      "id": "inner-course.index.text.0050",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[7]/p[1]/text()[4]",
+      "source": "Truth moves. Wisdom endures. Compassion multiplies.",
+      "sourceSha256": "bc192b5dadd246485a9b48a89161da5d8297a3a6f4fb5dd68f732b35009e6443"
+    },
+    {
+      "id": "inner-course.index.text.0051",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[8]/span[1]/text()[1]",
+      "source": "by Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    {
+      "id": "inner-course.index.text.0052",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[8]/small[1]/text()[1]",
+      "source": "Made with love by Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    {
+      "id": "inner-course.index.text.0053",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#main-content/section[8]/a[2]/text()[1]",
+      "source": "Explore all Moving Truth apps",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    {
+      "id": "inner-course.index.text.0054",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#availability/span[1]/text()[1]",
+      "source": "Coming soon",
+      "sourceSha256": "4f7d64017689437e6d93f5724f3f797054f3935d98a13148025b616b8db8fb2c"
+    },
+    {
+      "id": "inner-course.index.text.0055",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#availability-title/text()[1]",
+      "source": "The book stays closed until someone is ready to open it.",
+      "sourceSha256": "e2d9535ae7e797ccc9790cf880d5222ac717c920f364f6ad1879bf28695345af"
+    },
+    {
+      "id": "inner-course.index.text.0056",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#availability/p[1]/text()[1]",
+      "source": "Inner Course is being crafted for iPhone as a lifelong journey of learning, reflection, and becoming. Slowly. Patiently. Without rushing the reader.",
+      "sourceSha256": "f33bfa28bc4374f7407803b0258a086e14795a9212e6b8f5666f3cda7a99e3db"
+    },
+    {
+      "id": "inner-course.index.text.0057",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "#availability/a[1]/text()[1]",
+      "source": "Ask about Inner Course",
+      "sourceSha256": "678837dade22071aa47e0416f8c1a4be55c2ca41ac711928d5de914feadd8b92"
+    },
+    {
+      "id": "inner-course.index.text.0058",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/ul[1]/li[1]/a[1]/text()[1]",
+      "source": "Why it exists",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    {
+      "id": "inner-course.index.text.0059",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/ul[1]/li[2]/a[1]/text()[1]",
+      "source": "Lesson path",
+      "sourceSha256": "e7c24fff5ec6b890aadb1829e76de655c6562e167dc962aacd0fa26f14835207"
+    },
+    {
+      "id": "inner-course.index.text.0060",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/ul[1]/li[3]/a[1]/text()[1]",
+      "source": "The compass",
+      "sourceSha256": "2eebb7accc2fc83e8e79cf9ba16a3d9d9bbca85fc85e49a07546cb5a7c7b9b08"
+    },
+    {
+      "id": "inner-course.index.text.0061",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/ul[1]/li[4]/a[1]/text()[1]",
+      "source": "Support",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    {
+      "id": "inner-course.index.text.0062",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/ul[1]/li[5]/a[1]/text()[1]",
+      "source": "All apps",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    {
+      "id": "inner-course.index.text.0063",
+      "page": "index.html",
+      "kind": "text",
+      "locator": "/html[1]/body[1]/footer[1]/p[1]/text()[1]",
+      "source": "© 2026 Inner Course by Moving Truth. Made for iPhone.",
+      "sourceSha256": "f83db333672ea0bb36be0daec00c5309e3c5fddcfc77d22518260ad4f5136d40"
+    },
+    {
+      "id": "inner-course.index.attribute.0001",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[4]/@content",
+      "source": "Inner Course is a handcrafted lessons-and-reflection app by Moving Truth. Not a feed. Not gamified. A companion for the inward journey. Coming soon to iPhone.",
+      "sourceSha256": "34686f0f18711a087477c5c890d2b00d0bb82708ac1c4871483842a3214d503e"
+    },
+    {
+      "id": "inner-course.index.attribute.0002",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[5]/@content",
+      "source": "Inner Course — by Moving Truth",
+      "sourceSha256": "aaffae20edcb64575f264ef98942949f623fb6f935174453f11c08285cd94d4d"
+    },
+    {
+      "id": "inner-course.index.attribute.0003",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/head[1]/meta[6]/@content",
+      "source": "Where Moving Truth moves outward, Inner Course moves in.",
+      "sourceSha256": "906b8ec1efda5796a7a50b1e81913790a0c09607855b2e15acc5f333af935f58"
+    },
+    {
+      "id": "inner-course.index.attribute.0004",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/a[1]/@aria-label",
+      "source": "Inner Course home",
+      "sourceSha256": "00a9b9621320a5a72ebed078232513ce8ed303e6c239cd1245953e354c5245ce"
+    },
+    {
+      "id": "inner-course.index.attribute.0005",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/header[1]/nav[1]/@aria-label",
+      "source": "Main navigation",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    {
+      "id": "inner-course.index.attribute.0006",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#top/div[1]/img[1]/@alt",
+      "source": "Inner Course app icon: a worn leather book embossed with the Moving Truth symbol",
+      "sourceSha256": "36221842e99084f5f51081e49272c1c5c9b72bd5de7cf2ec425c72d8365f51fb"
+    },
+    {
+      "id": "inner-course.index.attribute.0007",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#top/div[2]/span[1]/@aria-label",
+      "source": "Coming soon to iPhone",
+      "sourceSha256": "4f94b16d081a4fcdffecf1eb355a8fddac4bcf388b396e40fd9c80d7e029aec9"
+    },
+    {
+      "id": "inner-course.index.attribute.0008",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#lessons/ol[1]/@aria-label",
+      "source": "Inner Course lesson structure",
+      "sourceSha256": "84b40fd87c519c4b867182837f9f5f1384366a95cc76abda5b2a3d36c2595e19"
+    },
+    {
+      "id": "inner-course.index.attribute.0009",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#main-content/section[8]/@aria-label",
+      "source": "About Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    {
+      "id": "inner-course.index.attribute.0010",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#main-content/section[8]/a[1]/@aria-label",
+      "source": "Moving Truth. Opens movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    {
+      "id": "inner-course.index.attribute.0011",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "#main-content/section[8]/a[1]/img[1]/@alt",
+      "source": "Moving Truth logo",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    {
+      "id": "inner-course.index.attribute.0012",
+      "page": "index.html",
+      "kind": "attribute",
+      "locator": "/html[1]/body[1]/footer[1]/nav[1]/@aria-label",
+      "source": "Footer navigation",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    {
+      "id": "inner-course.index.script.0001",
+      "page": "index.html",
+      "kind": "script",
+      "locator": "script()[1]",
+      "source": "Open navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    {
+      "id": "inner-course.site-js.script.0001",
+      "page": "site.js",
+      "kind": "script",
+      "locator": "script()[1]",
+      "source": "Close navigation",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    {
+      "id": "inner-course.site-js.script.0002",
+      "page": "site.js",
+      "kind": "script",
+      "locator": "script()[2]",
+      "source": "Open navigation",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
+  ],
+  "retired": []
+}
