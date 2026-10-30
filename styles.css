@@ -191,3 +191,6 @@ footer p { color: var(--taupe); opacity: .62; font-size: .76rem; }
 @media (prefers-contrast: more) {
   :root { --taupe: #ddd6ca; --separator: rgba(238,231,218,.52); --gold: #f0cf70; }
 }
+
+/* The book itself introduces its story, across every language. */
+.statement--bordered > .statement__book-icon { display: block; width: clamp(150px, 28vw, 220px); height: auto; aspect-ratio: 1; object-fit: contain; border-radius: 22%; margin: 0 auto 2rem; box-shadow: 0 16px 48px rgba(0,0,0,.3); }
