@@ -551,8 +551,8 @@
       "page": "index.html",
       "kind": "attribute",
       "locator": "#top/div[1]/img[1]/@alt",
-      "source": "Inner Course app icon: a worn leather book embossed with the Moving Truth symbol",
-      "sourceSha256": "36221842e99084f5f51081e49272c1c5c9b72bd5de7cf2ec425c72d8365f51fb"
+      "source": "Inner Course app icon",
+      "sourceSha256": "e896e502961f67b2679f1d4e02c6154699ac6cf1da7d0678dd8fa42cb18f82a1"
     },
     {
       "id": "inner-course.index.attribute.0007",
